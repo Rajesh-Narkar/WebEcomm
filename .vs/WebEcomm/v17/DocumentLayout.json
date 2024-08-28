@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rajesh Narkar\\source\\repos\\WebEcomm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89291B80-ABB7-491B-974B-B840CA3227A1}|WebEcomm\\WebEcomm.csproj|c:\\users\\rajesh narkar\\source\\repos\\webecomm\\webecomm\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{89291B80-ABB7-491B-974B-B840CA3227A1}|WebEcomm\\WebEcomm.csproj|solutionrelative:webecomm\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89291B80-ABB7-491B-974B-B840CA3227A1}|WebEcomm\\WebEcomm.csproj|c:\\users\\rajesh narkar\\source\\repos\\webecomm\\webecomm\\placeorder.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{89291B80-ABB7-491B-974B-B840CA3227A1}|WebEcomm\\WebEcomm.csproj|solutionrelative:webecomm\\placeorder.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89291B80-ABB7-491B-974B-B840CA3227A1}|WebEcomm\\WebEcomm.csproj|c:\\users\\rajesh narkar\\source\\repos\\webecomm\\webecomm\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89291B80-ABB7-491B-974B-B840CA3227A1}|WebEcomm\\WebEcomm.csproj|solutionrelative:webecomm\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89291B80-ABB7-491B-974B-B840CA3227A1}|WebEcomm\\WebEcomm.csproj|c:\\users\\rajesh narkar\\source\\repos\\webecomm\\webecomm\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{89291B80-ABB7-491B-974B-B840CA3227A1}|WebEcomm\\WebEcomm.csproj|solutionrelative:webecomm\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89291B80-ABB7-491B-974B-B840CA3227A1}|WebEcomm\\WebEcomm.csproj|c:\\users\\rajesh narkar\\source\\repos\\webecomm\\webecomm\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{89291B80-ABB7-491B-974B-B840CA3227A1}|WebEcomm\\WebEcomm.csproj|solutionrelative:webecomm\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89291B80-ABB7-491B-974B-B840CA3227A1}|WebEcomm\\WebEcomm.csproj|c:\\users\\rajesh narkar\\source\\repos\\webecomm\\webecomm\\admin.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89291B80-ABB7-491B-974B-B840CA3227A1}|WebEcomm\\WebEcomm.csproj|solutionrelative:webecomm\\admin.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89291B80-ABB7-491B-974B-B840CA3227A1}|WebEcomm\\WebEcomm.csproj|C:\\Users\\Rajesh Narkar\\source\\repos\\WebEcomm\\webecomm\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{89291B80-ABB7-491B-974B-B840CA3227A1}|WebEcomm\\WebEcomm.csproj|solutionrelative:webecomm\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89291B80-ABB7-491B-974B-B840CA3227A1}|WebEcomm\\WebEcomm.csproj|C:\\Users\\Rajesh Narkar\\source\\repos\\WebEcomm\\webecomm\\cart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89291B80-ABB7-491B-974B-B840CA3227A1}|WebEcomm\\WebEcomm.csproj|solutionrelative:webecomm\\cart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89291B80-ABB7-491B-974B-B840CA3227A1}|WebEcomm\\WebEcomm.csproj|C:\\Users\\Rajesh Narkar\\source\\repos\\WebEcomm\\webecomm\\user.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{89291B80-ABB7-491B-974B-B840CA3227A1}|WebEcomm\\WebEcomm.csproj|solutionrelative:webecomm\\user.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.Master",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\WebEcomm\\WebEcomm\\User.Master",
+              "RelativeDocumentMoniker": "WebEcomm\\User.Master",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\WebEcomm\\WebEcomm\\User.Master",
+              "RelativeToolTip": "WebEcomm\\User.Master",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-07T19:04:39.994Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cart.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\WebEcomm\\WebEcomm\\Cart.aspx.cs",
+              "RelativeDocumentMoniker": "WebEcomm\\Cart.aspx.cs",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\WebEcomm\\WebEcomm\\Cart.aspx.cs",
+              "RelativeToolTip": "WebEcomm\\Cart.aspx.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowEYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T03:42:43.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cart.aspx",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\WebEcomm\\WebEcomm\\Cart.aspx",
+              "RelativeDocumentMoniker": "WebEcomm\\Cart.aspx",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\WebEcomm\\WebEcomm\\Cart.aspx",
+              "RelativeToolTip": "WebEcomm\\Cart.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-14T03:42:30.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\WebEcomm\\WebEcomm\\Web.config",
+              "RelativeDocumentMoniker": "WebEcomm\\Web.config",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\WebEcomm\\WebEcomm\\Web.config",
+              "RelativeToolTip": "WebEcomm\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-01T10:20:12.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Admin.Master.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\WebEcomm\\WebEcomm\\Admin.Master.cs",
+              "RelativeDocumentMoniker": "WebEcomm\\Admin.Master.cs",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\WebEcomm\\WebEcomm\\Admin.Master.cs",
+              "RelativeToolTip": "WebEcomm\\Admin.Master.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T09:01:07.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Admin.Master",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\WebEcomm\\WebEcomm\\Admin.Master",
+              "RelativeDocumentMoniker": "WebEcomm\\Admin.Master",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\WebEcomm\\WebEcomm\\Admin.Master",
+              "RelativeToolTip": "WebEcomm\\Admin.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-12T09:09:14.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "default.aspx",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\WebEcomm\\WebEcomm\\default.aspx",
+              "RelativeDocumentMoniker": "WebEcomm\\default.aspx",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\WebEcomm\\WebEcomm\\default.aspx",
+              "RelativeToolTip": "WebEcomm\\default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-12T09:10:51.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\WebEcomm\\WebEcomm\\default.aspx.cs",
+              "RelativeDocumentMoniker": "WebEcomm\\default.aspx.cs",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\WebEcomm\\WebEcomm\\default.aspx.cs",
+              "RelativeToolTip": "WebEcomm\\default.aspx.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowDUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T09:13:43.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlaceOrder.aspx",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\WebEcomm\\WebEcomm\\PlaceOrder.aspx",
+              "RelativeDocumentMoniker": "WebEcomm\\PlaceOrder.aspx",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\WebEcomm\\WebEcomm\\PlaceOrder.aspx",
+              "RelativeToolTip": "WebEcomm\\PlaceOrder.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-12T09:48:50.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
